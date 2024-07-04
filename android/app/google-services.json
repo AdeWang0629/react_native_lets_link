@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15660300213",
+    "project_id": "uplift-f6435",
+    "storage_bucket": "uplift-f6435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15660300213:android:d339b0471a48a0228b4bfc",
+        "android_client_info": {
+          "package_name": "com.globalsleep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchcYye-BIidQhsBJKMPOBKpzg80dlMb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
